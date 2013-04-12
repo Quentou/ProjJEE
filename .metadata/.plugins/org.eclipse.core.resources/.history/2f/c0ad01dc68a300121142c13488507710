@@ -1,0 +1,7 @@
+package qmark
+
+class Question {
+
+    static constraints = {
+    }
+}
